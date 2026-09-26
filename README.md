@@ -1,6 +1,6 @@
 # Media Utility
 
-A small, no-nonsense Windows console tool for pulling media from **TikTok**, **YouTube**, and **Instagram** into an organized local library.
+A small Windows console tool for pulling media from **TikTok**, **YouTube**, and **Instagram** into an organized local library.
 
 Menu-driven. Silent progress. Auto-installs its own tooling on first run.
 
